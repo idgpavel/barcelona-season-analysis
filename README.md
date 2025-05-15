@@ -50,10 +50,10 @@ cd barcelona-season-analysis
 
 ## 🚀 Использование
 
-Выполните полный цикл анализа: python scripts/run_all.py
+- Выполните полный цикл анализа: python scripts/run_all.py
 
 Это соберёт данные, очистит их, выполнит EDA и создаст графики в visualizations/.
-Запустите дэшборд: streamlit run dashboard/app.py
+- Запустите дэшборд: streamlit run dashboard/app.py
 
-Откройте http://localhost:8501 в браузере.
-Интерактивный анализ:jupyter notebook notebooks/template.ipynb
+- Откройте http://localhost:8501 в браузере.
+- Интерактивный анализ: jupyter notebook notebooks/template.ipynb
